@@ -12,7 +12,7 @@ echo $number;
 // division in php
 $result = 15/5;
 $result = 15;
-$result /= 5; // result = result/5
+$result /= 5;  // result = result/5
 
 echo $result;
 

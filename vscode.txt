@@ -1,0 +1,10 @@
+
+===============================================
+go to specific line: Ctr+g and type line number
+==============================================
+move line up-down: Alt+upkey / Alt+downkey
+==============================================
+copy line up-down: shift+Alt+upkey / shift+Alt+downkey
+==============================================
+nevigating among tabs: ctr+tab
+==============================================

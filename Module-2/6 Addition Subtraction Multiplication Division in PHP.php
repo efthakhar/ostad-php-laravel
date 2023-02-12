@@ -22,8 +22,3 @@ echo $result;
 
 // arithmetic operator
 // +,-,*,/
-
-
-
-
-?>

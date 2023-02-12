@@ -8,3 +8,5 @@ copy line up-down: shift+Alt+upkey / shift+Alt+downkey
 ==============================================
 nevigating among tabs: ctr+tab
 ==============================================
+format code: alt+shift+f
+==============================================

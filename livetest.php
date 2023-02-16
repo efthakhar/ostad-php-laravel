@@ -9,6 +9,8 @@ $tution_fee > 20000  ? 25 :
 
 echo $percentage == 0 ? 'invalid data': 'commission is $'. $tution_fee*($percentage/100);
 
+
+
 ?>
 
 

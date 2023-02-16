@@ -9,7 +9,7 @@
 // other cases: return true
 
 $var;
-//echo isset($var); 
+echo isset($var); 
 
 //On the other hand the empty() function checks if the variable has an empty value empty string, 0, NULL or False. 
 

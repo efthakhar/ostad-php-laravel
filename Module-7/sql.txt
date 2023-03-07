@@ -1,0 +1,31 @@
+There are two types of Database system:
+1)RDBMS
+2)No-RDBMS
+
+Popular RDBMS systems: MySql, MariaDB, PosgreSql, Sql Server
+Popular No-RDBMS systems: MongoDB, DynamoDB
+
+
+====================\\=========================
+===  Sql Commands
+=====================\\========================
+
+=> SELECT * FROM `table_name` // selecting all columns values
+
+=> SELECT `col1`,`col2` FROM `table_name` // selecting some particular columns 
+
+=> SELECT * FROM `table_name` ORDER BY `col1` DESC  // ordering selected values by col1
+
+
+================== Inserting Info in Database ===============
+INSERT INTO `table_name` (`col1`, `col2`, `col3`) VALUES ('col1_value', 'col2_value', 'col3_value') 
+
+
+================== UPDATE Info in Database ===============
+UPDATE `table_name` SET `col1`='value1' WHERE `col_name`='matching_value'
+
+
+
+
+
+
